@@ -4,5 +4,8 @@ function add(x,y) {
 }
 
 function sayHello() {
+
+console.log("hello")
   return "hello"
+
 }
