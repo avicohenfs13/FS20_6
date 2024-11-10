@@ -1,4 +1,4 @@
 
 function add(x,y) {
-  return "hello"
+  return x + y
 }
